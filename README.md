@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-<!--
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sinyu1012)](https://github.com/USERNAME/github-readme-stats)  
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinyu1012&layout=compact)](https://github.com/USERNAME/github-readme-stats)
 
 **sinyu1012/sinyu1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
