@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Sinyu（沈新宇）. 👋 👋
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sinyu1012)](https://github.com/USERNAME/github-readme-stats)  
